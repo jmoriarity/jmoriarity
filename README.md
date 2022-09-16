@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jmoriarity
 - 👀 I’m interested in cybersecurity, programming, and collecting retro computer hardware/software.
-- 🌱 I’m currently learning Python, Java, and C#.
-- 💞️ I’m looking to collaborate on open source projects.
+- 🌱 I’m currently learning C++, Go, and Python.
 
 <!---
 jmoriarity/jmoriarity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
